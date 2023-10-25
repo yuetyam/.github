@@ -1,4 +1,4 @@
-粵拼輸入法App. Cantonese Jyutping Keyboard for iOS & macOS.
+粵拼輸入法. Cantonese Jyutping Keyboard for iOS, macOS, Android and Windows.
 
 <a href="https://t.me/jyutping">
         <img src="https://github.com/yuetyam/.github/raw/master/profile/telegram.png" alt="Telegram" width="150"/>
